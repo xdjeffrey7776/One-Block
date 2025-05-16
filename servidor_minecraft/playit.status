@@ -1,94 +1,6 @@
 8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 0 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
 MSG: Failed to load latest tunnels
-Error: ApiError(A[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00rror(Auth(InvalidAgentKey))
-[2J8[0mplayit (v0.15.26): 1747369814363 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369817439 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ApiError(Auth(InvalidAgentKey))
-[2J8[0mplayit (v0.15.26): 1747369827319 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369831174 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369834241 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369837306 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369840668 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369843738 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369846812 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369849931 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369853051 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369856133 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369859335 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369862409 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369865483 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369868593 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369871926 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+Error: ApiError(A[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00[2J8[0mVisit link to setup https://playit.gg/claim/7f1d399f00b3e903f3c00
 [2J8[0mplayit (v0.15.26): 1747369876072 tunnel running, 0 tunnels registered
 
 
@@ -244,28 +156,823 @@ Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e9
 
 TUNNELS
 Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747369974736 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747369977823 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747369980900 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747369983973 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747369987054 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747369990123 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747369993200 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747369996268 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747369999347 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370002417 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370005492 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370008561 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370011683 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370014870 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370017962 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370021044 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370024110 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370027175 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370030297 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370034090 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370037229 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370040330 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370043425 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370046500 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370049590 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370052666 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370055727 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370058787 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370061855 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370064958 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370068312 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370071456 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370074558 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370077643 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370080828 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370083909 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370086971 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370090044 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370093114 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370096361 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370099431 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370102510 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370105677 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370108733 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370111795 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370114862 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370117930 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370121037 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370124100 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370127164 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370130221 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370133296 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370136373 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370139437 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370142544 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370145796 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370148939 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370152606 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370155713 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370158776 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370162249 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370165332 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370168395 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370171468 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370174538 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370177654 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370180791 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370183862 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370186955 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370190144 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370193230 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370196293 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370199365 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370202435 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370206376 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370209457 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370212515 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370215596 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370218671 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370221795 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370224875 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370227998 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370231105 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370234427 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370237701 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370240900 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370245017 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370248086 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370251238 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370255102 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370258191 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370261269 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370264335 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370267404 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370270481 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370274604 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370277691 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370280767 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370283828 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370286916 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370290007 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370293071 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370297270 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370300423 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370303554 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370306618 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370309764 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370313483 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370316665 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370319740 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370322825 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370325991 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370329063 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370332143 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370335213 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370338353 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370341423 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370344503 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370347571 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370351148 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370354221 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370357327 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370360584 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370363710 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370367563 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370370639 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370373723 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370376808 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370380159 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370383244 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370386340 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370389447 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370392529 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370395673 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370398803 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370401897 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370405339 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370408708 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370411828 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370414898 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370418062 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370421142 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370424233 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370427297 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370430361 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370433448 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370436510 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370439800 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370442867 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370445936 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370449022 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370452360 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370455456 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370458558 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370461624 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370464701 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370467773 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370470847 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370473925 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
+[2J8[0mplayit (v0.15.26): 1747370477008 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
 tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369961693 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747370466238 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369964787 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747370469354 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369967888 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747370472428 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369971175 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/78b93bac-825c-4a9a-92c7-cb3e903f3c00
-[2J8[0mplayit (v0.15.26): 1747369974403 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747370475628 tunnel running, 0 tunnels registered
 
 
 TUNNELS
